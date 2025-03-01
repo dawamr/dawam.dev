@@ -1,5 +1,20 @@
 {
-  "name": "react",
+  "name": "portfolio-dawam.dev",
+  "description": "Portfolio Website for Dawam Raja (dawam.dev)",
+  "author": "@seraprogrammer",
+  "publisher": "Dawam Raja",
+  "license": "MIT",
+  "homepage": "https://dawam.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dawamr/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "dawam",
+    "dawam.dev",
+    "portfolio-dawam.dev"
+  ],
   "private": true,
   "version": "0.0.0",
   "type": "module",
