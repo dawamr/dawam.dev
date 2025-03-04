@@ -64,7 +64,7 @@ const profile = {
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    yearsOfExperience: '${new Date().getFullYear() - 2017}'+,
+    yearsOfExperience: '${new Date().getFullYear() - 2017}+',
     hireable: function() {
         return (
             this.hardWorker &&
