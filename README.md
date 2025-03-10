@@ -2,12 +2,12 @@
 
 <div align="center">
   <pre>
-    _____           _    __      _ _       
-   |  __ \         | |  / _|    | (_)      
-   | |__) |__  _ __| |_| |_ ___ | |_  ___  
-   |  ___/ _ \| '__| __|  _/ _ \| | |/ _ \ 
+    _____           _    __      _ _
+   |  __ \         | |  / _|    | (_)
+   | |__) |__  _ __| |_| |_ ___ | |_  ___
+   |  ___/ _ \| '__| __|  _/ _ \| | |/ _ \
    | |  | (_) | |  | |_| || (_) | | | (_) |
-   |_|   \___/|_|   \__|_| \___/|_|_|\___/ 
+   |_|   \___/|_|   \__|_| \___/|_|_|\___/
   </pre>
 </div>
 
@@ -29,9 +29,9 @@ Welcome to my **dynamic portfolio website**! This interactive site showcases my 
 ## 🖥️ Live Preview
 
 Check out the live preview of the portfolio website:
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**](https://dawam.dev)
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](./public/landing.png)
 
 ---
 
