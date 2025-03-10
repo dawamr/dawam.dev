@@ -54,11 +54,11 @@ export default function Hero() {
   const [code] = useState(`
 const profile = {
     name: 'Dawam Raja',
-    title: 'Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver',
+    title: 'Full-Stack Developer | Cloud & DevOps Enthusiast | Software Engineer',
     skills: [
         'React', 'Astro', 'VueJs', 'Flutter', 'TypeScript',
         'MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Firebase',
-        'Laravel', 'CodeIgniter', 'Python', 'Golang',
+        'Laravel', 'CodeIgniter', 'Python', 'Golang', "Odoo",
         'Docker', 'Git', 'Cloud Computing', 'Automation Workflow',
     ],
     hardWorker: true,
@@ -113,7 +113,7 @@ const profile = {
                 <h1 className='text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight'>
                   <SparklesText text='Hello' />
                   <span className='relative inline-block'>
-                    I'm
+                    I&apos;m
                     <span className='typing-effect gradient-text'> Dawam Raja</span>
                   </span>
                 </h1>
